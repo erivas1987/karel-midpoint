@@ -83,6 +83,7 @@ The algorithm works in three main phases:
 ## 🙌 Acknowledgments
 
 Programming exercises from **Stanford University**, widely used to teach algorithmic thinking and problem-solving fundamentals.
+https://codeinplace.stanford.edu/public/ide/a/midpoint
 ---
 
 ## 🧑‍💻 Author
